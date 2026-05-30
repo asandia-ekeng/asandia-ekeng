@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I’m Asandia 👋
 
-<!--
-**asandia-ekeng/asandia-ekeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I’m a Mechanical Engineering graduate transitioning into Cybersecurity, AI, Cloud and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+* Cybersecurity Fundamentals
+* Networking
+* Linux
+* Git & GitHub
+* Cloud Technologies
+* Artificial Intelligence
+
+🚀 Current Goals
+
+* Build a strong foundation in cybersecurity
+* Learn publicly and document my journey
+* Contribute to meaningful projects
+* Connect with other learners and professionals
+
+💡 Interests
+
+* Cybersecurity
+* Artificial Intelligence
+* Leadership
+* Technology
+* Personal Growth
+
+📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/the-asandia-ekeng
+* X (Twitter): https://x.com/aiwithasandia
+
+Thanks for stopping by 😊
